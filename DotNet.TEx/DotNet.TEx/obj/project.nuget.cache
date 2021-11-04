@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhrpUowhvmfBv5kXtkUOxSt0Jk0XLKC9caaaEVCWZsmS2N/HaTIkt2apfekHO/xPb6UMW5dM5SOLQuKKf1Hkqw==",
+  "success": true,
+  "projectFilePath": "D:\\Backup_Mint\\Projects\\DotNetTEx\\DotNet.TEx\\DotNet.TEx\\DotNet.TEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\pdfpig\\0.1.5\\pdfpig.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
